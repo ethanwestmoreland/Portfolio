@@ -23,7 +23,7 @@ Completing these enhancements also helped me understand the importance of review
 
 This code review examines my original applications and identifies areas for improvement in software design, algorithms, data structures, and databases.
 
-https://youtu.be/QD9rWalpEGg
+[Watch My Code Review](https://youtu.be/QD9rWalpEGg)
 
 ---
 
